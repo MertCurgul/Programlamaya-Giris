@@ -1,0 +1,14 @@
+package ekrandansayiokuma;
+
+import java.util.Scanner;
+
+public class Okumayı_Öğreniyorum {
+
+public static void (String[] args) {
+
+int sayımız;
+Scanner oku = new Scanner(System.in);
+sayımız = oku.nextInt();
+System.out.print("Lütfen Bir Sayı Giriniz: ");
+}
+}
